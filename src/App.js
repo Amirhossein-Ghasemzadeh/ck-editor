@@ -1,7 +1,7 @@
 import Editor from './Editor';
 
 function App() {
-    // add new 
+    // add new editor
     return (
         <Editor />
     );
